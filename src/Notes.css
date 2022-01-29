@@ -1,0 +1,62 @@
+.NotesHead{
+    position: absolute;
+width: 215px;
+height: 73px;
+left: 198px;
+top: 123px;
+font-weight:bold;
+font-family: 'Montserrat', sans-serif;;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 73px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.search{
+    position: absolute;
+width: 417px;
+height: 44px;
+left: 306px;
+top: 247px;
+background-color:#404040;
+border-radius: 9px;
+border-color: #404040;
+}
+
+.chooseSem{
+    position: absolute;
+width: 186px;
+height: 44px;
+left: 770px;
+top: 247px;
+
+background: #404040;
+border-radius: 5px;
+border-color:  #404040;
+}
+
+.searchBtn{
+    position: absolute;
+width: 131px;
+height: 44px;
+left: 1003px;
+top: 247px;
+
+background: #6C63FF;
+border-radius: 5px;
+border-color: #6C63FF;
+}
+
+.image{
+    position: absolute;
+left: 481px;
+top: 376px;
+
+opacity: 0.9;
+}

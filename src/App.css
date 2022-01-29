@@ -1,0 +1,91 @@
+body{
+  background-color: #121212;
+  padding:2%;
+}
+
+.info{
+  font-size: 1.5rem;
+
+}
+
+.welcome{
+  position: absolute;
+width: 389px;
+height: 73px;
+left: 925px;
+top: 296px;
+font-weight: 700;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 73px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.srm-hub{
+  position: absolute;
+  width: 199px;
+  height: 49px;
+  left: 925px;
+  top: 369px;
+  font-weight: 600;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 49px;
+  
+  display: flex;
+  align-items: center;
+  text-align: center;
+  
+  color: #6C63FF;
+
+}
+
+.disc{
+  position: absolute;
+width: 389px;
+height: 48px;
+left: 925px;
+top: 446px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+
+.NotesBtn{
+  
+position: absolute;
+width: 131px;
+height: 44px;
+left: 925px;
+top: 572px;
+background-color: #6C63FF;
+color:black;
+
+}
+
+.RestrauntBtn{
+  position: absolute;
+width: 138px;
+height: 44px;
+left: 1086px;
+top: 572px;
+background-color: #7C7C7C;
+color:black;
+}
